@@ -1,5 +1,7 @@
 # Space Situational Awareness Datastore
 
+**NOTE: This repo is deprecated as work is being commenced elsewhere for better collaboration.**
+
 Repo to test creating a datastore for SSA data and exposing a RESTful API for access.
 
 The datastore uses `postgres` for the database, and `flask` as the web framework.
